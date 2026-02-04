@@ -52,7 +52,7 @@ The system uses a normalized relational schema (3NF) to ensure data consistency:
 
 **Example: Monthly Payout Report**
 
-* CALL GetMonthlyPayroll('2025-01-31');
+    CALL GetMonthlyPayroll('2025-01-31');
 
 **📈 Learning Outcomes**
 
